@@ -10,7 +10,7 @@
     "react-dom": "^15.4.1"
   },
   "scripts": {
-    "start": "node ./node_modules/react-scripts/bin/react-scripts build",
+    "start": "node ./node_modules/react-scripts/bin/react-scripts start",
     "dev": "node ./node_modules/react-scripts/bin/react-scripts start",
     "build": "node ./node_modules/react-scripts/bin/react-scripts build",
     "test": "node ./node_modules/react-scripts/bin/react-scripts test --env=jsdom",
